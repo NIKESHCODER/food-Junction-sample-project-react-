@@ -1,0 +1,81 @@
+.footer {
+    background-color: #061230;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .footer-section {
+    margin: 10px;
+    flex: 1;
+    min-width: 200px;
+  }
+  
+  .footer-section h3 {
+    margin-bottom: 10px;
+  }
+  
+  .footer-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li {
+    margin: 5px 0;
+  }
+  
+  .footer-section ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer-section.foodservies input {
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .footer-section.foodservies button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #FF6F00;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .footer-section.foodservies .social-media {
+    margin-top: 20px;
+  }
+  
+  .footer-section.foodservies .social-media a {
+    margin: 0 5px;
+  }
+  
+  
+  
+  .footer-bottom {
+    margin-top: 20px;
+    border-top: 1px solid #444;
+    padding-top: 10px;
+  }
+  
+  .footer-bottom .footer-links {
+    margin-top: 10px;
+  }
+  
+  .footer-bottom .footer-links a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+  }
+  

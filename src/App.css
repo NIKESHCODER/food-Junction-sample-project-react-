@@ -1,0 +1,39 @@
+.menu{
+   
+    display: flex;
+    
+    
+    text-align: top;
+    position: fixed;
+    
+    
+    
+    color: white;
+    top: -100%;
+    transition: 0.5s;
+
+}
+.menu ul {
+    display: flex;
+    gap: 30px;
+}
+.menu ul li{
+    list-style: none;
+    padding: 10px 0px;
+    
+
+}
+.micon{
+    position: absolute;
+    right: 20px;
+
+}
+.activeMenu{
+    top: 0%;
+}
+.active{
+   color: black; 
+}
+.foodlist{
+    justify-content: space-between;
+}

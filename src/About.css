@@ -1,0 +1,31 @@
+.about-container {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    padding: 20px;
+  }
+  
+  .about-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+    background-color: #f4f4f4;
+  }
+  
+  .about-text {
+    max-width: 50%;
+    text-align: center;
+  }
+  
+  .about-text h1 {
+    font-size: 48px;
+    color: #333;
+  }
+  
+  .about-text p {
+    font-size: 24px;
+    color: #555;
+  }
+  
+ 
+  
