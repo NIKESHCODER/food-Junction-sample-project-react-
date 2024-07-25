@@ -78,6 +78,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 Nikhesh Verma - vermanikesh25@gmail.com
 
-Project Link: 
+Project Link: https://github.com/NIKESHCODER/food-Junction-sample-project-react-
 
 
